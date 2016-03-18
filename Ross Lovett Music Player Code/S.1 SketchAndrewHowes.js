@@ -38,10 +38,4 @@ function draw() {
     rect(525, 550, 75, 50)       // Pause (Text) Button to pause track
     
     
-     
-     
-    
-    
-  
-
 }
